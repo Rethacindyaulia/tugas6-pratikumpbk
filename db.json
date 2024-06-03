@@ -1,0 +1,24 @@
+{
+    "articles": [
+      {
+        "title": "Somethinc",
+        "content": "Serum",
+        "id": "01"
+      },
+      {
+        "id": "02",
+        "title": "Hadalabo",
+        "content": "Pencuci Muka"
+      },
+      {
+        "id": "03",
+        "title": "Cosrx",
+        "content": "Pelembab"
+      },
+      {
+        "id": "04d2",
+        "title": "retha",
+        "content": "vnbfldksfkd"
+      }
+    ]
+  }
